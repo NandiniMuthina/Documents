@@ -1,0 +1,16 @@
+# HMC COMMANDS
+  - man mkhmcusr - To view the command information.
+  - asmmenu - Advanced System Management interface for a system.
+  - bkconsdata - backsup HMC data.
+  - chhmc - change HMC configuration information.
+  - chhmcusr - change HMC user attributes.
+  - chhwres - change hardware resources.
+  - chlparstate - change partition state.
+  - chsyscfg - change system resources.
+  - chsyspwd - change system password.
+  - hmcshutdown - shutdown the HMC.
+  - lshwres - list hardware resources.
+  - rsthwres - restore hardware resources.
+  - rmsyscfg - remove a system resources.
+  - mksyscfg - create system resources.
+  - rmhmcusr - remove HMC users.
