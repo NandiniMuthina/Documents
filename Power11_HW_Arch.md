@@ -125,7 +125,3 @@ Power11 combines:
 ...within a single architecture.
 
 For SAP workloads, these characteristics address the areas that matter most: processing large in-memory datasets, maintaining business continuity, consolidating infrastructure efficiently, supporting future growth, and preparing for increasingly AI-enabled enterprise applications. Power11 therefore represents an evolution of the Power architecture that SAP customers already know, while introducing capabilities designed for the next generation of enterprise workloads.
-
----
-
-> **Author's note:** This document intentionally excludes any claims about Power11 cache sizes, per-chip core counts, processor fabrication details, OpenCAPI versions, exact fabric bandwidth values, or unpublished benchmark figures, as those could not be verified from IBM Power11 announcement material and SAP validation sources available at the time of writing. If any of those details can be confirmed from authoritative sources, they may be added in a future revision.
